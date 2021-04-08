@@ -1,2 +1,0 @@
-# GpAdmin
-graduation adming project
